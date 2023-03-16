@@ -1,0 +1,43 @@
+body{
+    font-family: 'Montserrat';
+}
+.video-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    max-width: 1680px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.page3_heading1{
+    text-align: center;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    letter-spacing: -1.5px;
+    padding-bottom: 30px;
+}
+
+.page3_content1{
+    font-family: 'Montserrat';
+    font-weight: 400;
+    letter-spacing: -1.5%;
+    text-align: center;
+    padding-left: 144px;
+    padding-right: 144px;
+}
+
+.page3_heading2{
+    text-align: center;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    letter-spacing: -1.5px;
+    padding-bottom: 21px;
+    padding-top: 38px;
+}
